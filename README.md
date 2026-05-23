@@ -10,11 +10,11 @@ Commandes :
 
 ## Multi-room
 
-The `Blague` plugin is fully multi-room.
+The `AirQuality` plugin is fully multi-room.
 
 ## Multi-language
 
-The `Blague` plugin relies solely on the system's available languages.
+The `AirQuality` plugin relies solely on the system's available languages.
 
    <table style="border: none;">
   <tr>
